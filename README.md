@@ -2,13 +2,14 @@
  My Project README
 
 
+
     
 
 
 SignUp View
 <p>Sample UI with functionality to register a new user in our API.</p>
 
-<img src="https://github.com/Trajoon/Project-6/blob/main/assets/153893124/8389bcdd-4215-4002-8a60-b020256f6cc5.jpg" alt="Screenshot_1" width="300">
+<img src="https://github.com/Trajoon/Project-6/assets/153893124/1a3fdfcc-1e96-4010-afcc-9bd7944d63e8.jpg" alt="Screenshot_1" width="300">
     <img src="https://github.com/Trajoon/Project-6/blob/main/assets/153893124/36f13265-8c3e-4b4d-99ed-733a50c6bb13.jpg" alt="Screenshot_2" width="300">
     <img src="https://github.com/Trajoon/Project-6/blob/main/assets/153893124/16502165-e6a9-4dae-afa1-d4a91945361a.jpg" alt="Screenshot_3" width="300">
 
